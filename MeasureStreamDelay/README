@@ -1,0 +1,16 @@
+/*********************************\
+* Measure Stream Delay by Mal1t1a *
+* ------------------------------- *
+* This application was created to *
+* measure the visual delay in the *
+* Client -> Server -> Server ->   *
+* Client(s) system which is found *
+* in most streaming websites.     *
+* ------------------------------- *
+* This uses visual cues to record *
+* and measure the delay from your *
+* stream. During this test, the   *
+* program will flash several      *
+* colours on your GUI which is    *
+* going to appear on your stream. *
+\*********************************/
